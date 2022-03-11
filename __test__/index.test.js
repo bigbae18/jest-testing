@@ -31,5 +31,5 @@ test("Si el numero no es divisible por 3 ni por 5 retorna el numero", () => {
 
     let result = fizzBuzz(number);
 
-    expect(result).toBe(number);
+    expect(result).toBe(7);
 })
